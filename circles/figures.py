@@ -56,7 +56,6 @@ def obtain_data_figs(dst, src, lw):
             centers, rads = assert_lists(centers, rads)
             centers, rads = remove_nones(centers, rads)
 
-
             pex = tif.imread(f'{src}/{name}.tiff')[0]
             atg = tif.imread(f'{src}/{name}.tiff')[1]
 
