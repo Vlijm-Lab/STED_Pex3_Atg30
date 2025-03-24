@@ -1,6 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11047200.svg)](https://doi.org/10.5281/zenodo.11047200)
+
 <b>Circle colocalzation analysis</b><br>
  Scripts used for the colocalization analaysis of Pex3 and ATG30 <br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11047200.svg)](https://doi.org/10.5281/zenodo.11047200)
 
 
 <b>Script developed by:</b><br>
